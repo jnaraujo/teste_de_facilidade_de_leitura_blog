@@ -1,7 +1,7 @@
 ---
 title: 'Vivamus auctor posuere magna in placerat. Sed maximus condimentum dapibus'
 metaDesc: 'Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent nec sodales nibh. Nulla ultrices ex euismod ex tempus, vitae feugiat felis dictum.'
-date: '08-07-2022'
+date: '06-12-2022'
 ---
 uma pequena descrição sobre o texto
 

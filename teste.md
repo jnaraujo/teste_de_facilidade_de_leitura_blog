@@ -1,7 +1,7 @@
 ---
 title: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
 metaDesc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse accumsan justo vitae orci porta lacinia. Ut lacinia iaculis sodales. Nulla vehicula eget nisi a dictum. Praesent ullamcorper sem sed ultrices ullamcorper. Praesent nec sodales nibh. Nulla ultrices ex euismod ex tempus, vitae feugiat felis dictum.'
-date: '11-07-2022'
+date: '07-12-2022'
 ---
 uma pequena descrição sobre o texto
 

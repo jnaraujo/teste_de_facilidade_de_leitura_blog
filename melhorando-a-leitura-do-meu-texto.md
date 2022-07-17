@@ -32,13 +32,13 @@ Você também pode importar textos de outros lugares para analisar (como Google 
 
 Escrever bons textos envolvem prática, técnica e repertório. Porém, textos fáceis de ler seguem certos padrões. Como por exemplo:
 
-### Escreva menos
+### 1) Escreva menos
 
 A maioria das pessoas não lê todo o texto de uma página.
 
 Na verdade, segundo uma pesquisa do Nielsen Norman Group (maior grupo de pesquisas em experiência do usuário), **quase 80% dos usuários somente escaneavam as páginas**. (você pode ler o artigo original completo em inglês <a href="https://www.nngroup.com/articles/how-users-read-on-the-web/" target="_blank">aqui</a>)
 
-### Use subtítulos e divisões
+### 2) Use subtítulos e divisões
 
 Ninguém gosta de ler conteúdo que não parece ter fim. Se você já abriu uma página assim, sabe o sentimento.
 
@@ -46,7 +46,7 @@ Um **texto dividido em seções parece menor** para o usuário.
 
 Além disso, usar **listas** ajuda a criar um conteúdo mais agradável de se ler.
 
-### Uma idéia por parágrafo
+### 3) Uma idéia por parágrafo
 
 Como dito, textos longos são chatos de serem lidos. Pior ainda são textos cheios de ideias entrelaçadas e palavras complexas.
 
@@ -56,13 +56,13 @@ Escrever **uma ideia por parágrafo** torna sua leitura mais simples.
 
 Eu não preciso ter que ler aquele parágrafo 5x só pra entender qual o sentido daquilo.
 
-### Use imagens
+### 4) Use imagens
 
 Sim, imagens tornam a leitura melhor.
 
 Segundo uma pesquisa da <a href="https://oit.williams.edu/files/2010/02/using-images-effectively.pdf" target="_blank">3M Corporation</a>, nós **processamos imagens 60 mil vezes mais rápido que textos**.
 
-### Destacar palavras chaves
+### 5) Destacar palavras chaves
 
 Como já sabemos, usuários não gostam de passar tempo demais lendo.
 
